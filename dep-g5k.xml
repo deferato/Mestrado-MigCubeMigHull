@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<!DOCTYPE platform SYSTEM "http://simgrid.gforge.inria.fr/simgrid.dtd">
+<platform version="3">
+  <!-- The master process (with some arguments) -->
+  <process host="capricorne-1.lyon.grid5000.fr" function="bsp">
+		<prop id="manager" value="5"/>
+	</process>
+  <process host="suno-1.sophia.grid5000.fr" function="bsp">
+		<prop id="manager" value="4"/>
+	</process>
+  <process host="suno-1.sophia.grid5000.fr" function="bsp">
+		<prop id="manager" value="4"/>
+	</process>
+  <process host="suno-1.sophia.grid5000.fr" function="manager">
+		<prop id="amount" value="2"/>
+		<prop id="set" value="0"/>
+		<prop id="base" value="4"/>
+		<prop id="prefix" value="suno-"/>
+		<prop id="sufix" value=".sophia.grid5000.fr"/>
+		<prop id="radical" value="45"/>
+		<prop id="power" value="23.530E9"/>
+	</process>
+  <process host="capricorne-1.lyon.grid5000.fr" function="manager">
+		<prop id="amount" value="2"/>
+		<prop id="set" value="1"/>
+		<prop id="base" value="4"/>
+		<prop id="prefix" value="capricorne-"/>
+		<prop id="sufix" value=".lyon.grid5000.fr"/>
+		<prop id="radical" value="56"/>
+		<prop id="power" value="4.7233E9"/>
+	</process>
+</platform>

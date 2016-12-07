@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<!DOCTYPE platform SYSTEM "http://simgrid.gforge.inria.fr/simgrid.dtd">
+<platform version="3">
+  <!-- The master process (with some arguments) -->
+  <process host="bob-1.unisinos.br" function="bsp">
+		<prop id="manager" value="5"/>
+	</process>
+  <process host="alice-1.inf.ufrgs.br" function="bsp">
+		<prop id="manager" value="4"/>
+	</process>
+  <process host="alice-1.inf.ufrgs.br" function="bsp">
+		<prop id="manager" value="4"/>
+	</process>
+  <process host="alice-1.inf.ufrgs.br" function="manager">
+		<prop id="amount" value="2"/>
+		<prop id="set" value="0"/>
+		<prop id="base" value="4"/>
+		<prop id="prefix" value="alice-"/>
+		<prop id="sufix" value=".inf.ufrgs.br"/>
+		<prop id="radical" value="1"/>
+		<prop id="power" value="68095000"/>
+	</process>
+  <process host="bob-1.unisinos.br" function="manager">
+		<prop id="amount" value="2"/>
+		<prop id="set" value="1"/>
+		<prop id="base" value="4"/>
+		<prop id="prefix" value="bob-"/>
+		<prop id="sufix" value=".unisinos.br"/>
+		<prop id="radical" value="2"/>
+		<prop id="power" value="137333000"/>
+	</process>
+</platform>

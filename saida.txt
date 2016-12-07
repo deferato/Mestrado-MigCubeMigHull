@@ -1,0 +1,314 @@
+[chimint-1.lille.grid5000.fr:bsp:(1) 0.000000] [msg_test/INFO] Superstep 1
+[chimint-1.lille.grid5000.fr:bsp:(1) 0.185381] [msg_test/INFO] Superstep 2
+[chimint-1.lille.grid5000.fr:bsp:(1) 0.360084] [msg_test/INFO] Superstep 3
+[chimint-1.lille.grid5000.fr:bsp:(1) 0.532633] [msg_test/INFO] Superstep 4
+[chimint-1.lille.grid5000.fr:bsp:(1) 0.704790] [msg_test/INFO] Superstep 5
+[chimint-1.lille.grid5000.fr:bsp:(1) 0.876921] [msg_test/INFO] Superstep 6
+[chimint-1.lille.grid5000.fr:bsp:(1) 1.049061] [msg_test/INFO] Superstep 7
+[chimint-1.lille.grid5000.fr:bsp:(1) 1.221199] [msg_test/INFO] Superstep 8
+[chimint-1.lille.grid5000.fr:bsp:(1) 1.393333] [msg_test/INFO] Superstep 9
+[chimint-1.lille.grid5000.fr:bsp:(1) 1.565466] [msg_test/INFO] Superstep 10
+[chimint-1.lille.grid5000.fr:bsp:(1) 1.737598] [msg_test/INFO] Superstep 11
+[chimint-1.lille.grid5000.fr:bsp:(1) 1.909729] [msg_test/INFO] Superstep 12
+[chimint-1.lille.grid5000.fr:bsp:(1) 2.081861] [msg_test/INFO] Superstep 13
+[chimint-1.lille.grid5000.fr:bsp:(1) 2.253992] [msg_test/INFO] Superstep 14
+[chimint-1.lille.grid5000.fr:bsp:(1) 2.426123] [msg_test/INFO] Superstep 15
+[chimint-1.lille.grid5000.fr:bsp:(1) 2.598254] [msg_test/INFO] Superstep 16
+[chimint-16.lille.grid5000.fr:bsp:(16) 2.683950] [msg_test/INFO] Ending
+
+[chimint-8.lille.grid5000.fr:bsp:(8) 2.683950] [msg_test/INFO] Ending
+
+[chimint-7.lille.grid5000.fr:bsp:(72) 2.683950] [msg_test/INFO] Ending
+
+[chimint-5.lille.grid5000.fr:bsp:(70) 2.683950] [msg_test/INFO] Ending
+
+[chimint-2.lille.grid5000.fr:bsp:(2) 2.683950] [msg_test/INFO] Ending
+
+[chimint-5.lille.grid5000.fr:bsp:(5) 2.683950] [msg_test/INFO] Ending
+
+[chimint-4.lille.grid5000.fr:bsp:(69) 2.683950] [msg_test/INFO] Ending
+
+[chimint-6.lille.grid5000.fr:bsp:(6) 2.683950] [msg_test/INFO] Ending
+
+[chimint-17.lille.grid5000.fr:bsp:(17) 2.683950] [msg_test/INFO] Ending
+
+[chimint-4.lille.grid5000.fr:bsp:(4) 2.683950] [msg_test/INFO] Ending
+
+[chimint-3.lille.grid5000.fr:bsp:(68) 2.683950] [msg_test/INFO] Ending
+
+[chimint-11.lille.grid5000.fr:bsp:(76) 2.683950] [msg_test/INFO] Ending
+
+[chimint-2.lille.grid5000.fr:bsp:(67) 2.683950] [msg_test/INFO] Ending
+
+[chimint-14.lille.grid5000.fr:bsp:(14) 2.683950] [msg_test/INFO] Ending
+
+[chimint-12.lille.grid5000.fr:bsp:(12) 2.683950] [msg_test/INFO] Ending
+
+[chimint-11.lille.grid5000.fr:bsp:(11) 2.683950] [msg_test/INFO] Ending
+
+[chimint-9.lille.grid5000.fr:bsp:(74) 2.683950] [msg_test/INFO] Ending
+
+[chimint-15.lille.grid5000.fr:bsp:(15) 2.683950] [msg_test/INFO] Ending
+
+[chimint-18.lille.grid5000.fr:bsp:(83) 2.683950] [msg_test/INFO] Ending
+
+[chimint-17.lille.grid5000.fr:bsp:(82) 2.683950] [msg_test/INFO] Ending
+
+[chimint-15.lille.grid5000.fr:bsp:(80) 2.683950] [msg_test/INFO] Ending
+
+[chimint-13.lille.grid5000.fr:bsp:(78) 2.683950] [msg_test/INFO] Ending
+
+[chimint-10.lille.grid5000.fr:bsp:(10) 2.683950] [msg_test/INFO] Ending
+
+[chimint-18.lille.grid5000.fr:bsp:(18) 2.683950] [msg_test/INFO] Ending
+
+[chimint-10.lille.grid5000.fr:bsp:(75) 2.683950] [msg_test/INFO] Ending
+
+[chimint-8.lille.grid5000.fr:bsp:(73) 2.683950] [msg_test/INFO] Ending
+
+[chimint-13.lille.grid5000.fr:bsp:(13) 2.683950] [msg_test/INFO] Ending
+
+[chimint-12.lille.grid5000.fr:bsp:(77) 2.683950] [msg_test/INFO] Ending
+
+[chimint-3.lille.grid5000.fr:bsp:(3) 2.683950] [msg_test/INFO] Ending
+
+[chimint-7.lille.grid5000.fr:bsp:(7) 2.683950] [msg_test/INFO] Ending
+
+[chimint-14.lille.grid5000.fr:bsp:(79) 2.683950] [msg_test/INFO] Ending
+
+[chimint-6.lille.grid5000.fr:bsp:(71) 2.683950] [msg_test/INFO] Ending
+
+[chimint-9.lille.grid5000.fr:bsp:(9) 2.683950] [msg_test/INFO] Ending
+
+[chimint-16.lille.grid5000.fr:bsp:(81) 2.683950] [msg_test/INFO] Ending
+
+[chimint-19.lille.grid5000.fr:bsp:(84) 2.686758] [msg_test/INFO] Ending
+
+[chimint-19.lille.grid5000.fr:bsp:(19) 2.686758] [msg_test/INFO] Ending
+
+[chicon-11.lille.grid5000.fr:bsp:(141) 2.687852] [msg_test/INFO] Ending
+
+[chicon-8.lille.grid5000.fr:bsp:(138) 2.687852] [msg_test/INFO] Ending
+
+[chicon-9.lille.grid5000.fr:bsp:(139) 2.687852] [msg_test/INFO] Ending
+
+[chicon-14.lille.grid5000.fr:bsp:(144) 2.687852] [msg_test/INFO] Ending
+
+[chicon-6.lille.grid5000.fr:bsp:(136) 2.687852] [msg_test/INFO] Ending
+
+[chicon-3.lille.grid5000.fr:bsp:(133) 2.687852] [msg_test/INFO] Ending
+
+[chicon-17.lille.grid5000.fr:bsp:(147) 2.687852] [msg_test/INFO] Ending
+
+[chicon-4.lille.grid5000.fr:bsp:(134) 2.687852] [msg_test/INFO] Ending
+
+[chicon-12.lille.grid5000.fr:bsp:(142) 2.687852] [msg_test/INFO] Ending
+
+[chicon-5.lille.grid5000.fr:bsp:(135) 2.687852] [msg_test/INFO] Ending
+
+[chicon-15.lille.grid5000.fr:bsp:(145) 2.687852] [msg_test/INFO] Ending
+
+[chicon-13.lille.grid5000.fr:bsp:(143) 2.687852] [msg_test/INFO] Ending
+
+[chicon-7.lille.grid5000.fr:bsp:(137) 2.687852] [msg_test/INFO] Ending
+
+[chicon-10.lille.grid5000.fr:bsp:(140) 2.687852] [msg_test/INFO] Ending
+
+[chicon-16.lille.grid5000.fr:bsp:(146) 2.687852] [msg_test/INFO] Ending
+
+[chicon-2.lille.grid5000.fr:bsp:(132) 2.710830] [msg_test/INFO] Ending
+
+[suno-7.sophia.grid5000.fr:bsp:(27) 2.755808] [msg_test/INFO] Ending
+
+[suno-31.sophia.grid5000.fr:bsp:(116) 2.755808] [msg_test/INFO] Ending
+
+[suno-39.sophia.grid5000.fr:bsp:(124) 2.755808] [msg_test/INFO] Ending
+
+[suno-33.sophia.grid5000.fr:bsp:(118) 2.755808] [msg_test/INFO] Ending
+
+[suno-25.sophia.grid5000.fr:bsp:(45) 2.755808] [msg_test/INFO] Ending
+
+[suno-27.sophia.grid5000.fr:bsp:(47) 2.755808] [msg_test/INFO] Ending
+
+[suno-14.sophia.grid5000.fr:bsp:(99) 2.755808] [msg_test/INFO] Ending
+
+[suno-13.sophia.grid5000.fr:bsp:(33) 2.755808] [msg_test/INFO] Ending
+
+[suno-23.sophia.grid5000.fr:bsp:(108) 2.755808] [msg_test/INFO] Ending
+
+[suno-11.sophia.grid5000.fr:bsp:(31) 2.755808] [msg_test/INFO] Ending
+
+[suno-32.sophia.grid5000.fr:bsp:(52) 2.755808] [msg_test/INFO] Ending
+
+[suno-34.sophia.grid5000.fr:bsp:(54) 2.755808] [msg_test/INFO] Ending
+
+[suno-9.sophia.grid5000.fr:bsp:(29) 2.755808] [msg_test/INFO] Ending
+
+[suno-35.sophia.grid5000.fr:bsp:(55) 2.755808] [msg_test/INFO] Ending
+
+[suno-26.sophia.grid5000.fr:bsp:(46) 2.755808] [msg_test/INFO] Ending
+
+[suno-20.sophia.grid5000.fr:bsp:(40) 2.755808] [msg_test/INFO] Ending
+
+[suno-28.sophia.grid5000.fr:bsp:(48) 2.755808] [msg_test/INFO] Ending
+
+[suno-25.sophia.grid5000.fr:bsp:(110) 2.755808] [msg_test/INFO] Ending
+
+[suno-15.sophia.grid5000.fr:bsp:(100) 2.755808] [msg_test/INFO] Ending
+
+[suno-18.sophia.grid5000.fr:bsp:(38) 2.755808] [msg_test/INFO] Ending
+
+[suno-36.sophia.grid5000.fr:bsp:(121) 2.755808] [msg_test/INFO] Ending
+
+[suno-19.sophia.grid5000.fr:bsp:(104) 2.755808] [msg_test/INFO] Ending
+
+[suno-9.sophia.grid5000.fr:bsp:(94) 2.755808] [msg_test/INFO] Ending
+
+[suno-13.sophia.grid5000.fr:bsp:(98) 2.755808] [msg_test/INFO] Ending
+
+[suno-26.sophia.grid5000.fr:bsp:(111) 2.755808] [msg_test/INFO] Ending
+
+[suno-28.sophia.grid5000.fr:bsp:(113) 2.755808] [msg_test/INFO] Ending
+
+[suno-12.sophia.grid5000.fr:bsp:(97) 2.755808] [msg_test/INFO] Ending
+
+[suno-16.sophia.grid5000.fr:bsp:(101) 2.755808] [msg_test/INFO] Ending
+
+[suno-21.sophia.grid5000.fr:bsp:(106) 2.755808] [msg_test/INFO] Ending
+
+[suno-24.sophia.grid5000.fr:bsp:(44) 2.755808] [msg_test/INFO] Ending
+
+[suno-29.sophia.grid5000.fr:bsp:(49) 2.755808] [msg_test/INFO] Ending
+
+[suno-12.sophia.grid5000.fr:bsp:(32) 2.755808] [msg_test/INFO] Ending
+
+[suno-38.sophia.grid5000.fr:bsp:(123) 2.755808] [msg_test/INFO] Ending
+
+[suno-17.sophia.grid5000.fr:bsp:(102) 2.755808] [msg_test/INFO] Ending
+
+[suno-37.sophia.grid5000.fr:bsp:(122) 2.755808] [msg_test/INFO] Ending
+
+[suno-15.sophia.grid5000.fr:bsp:(35) 2.755808] [msg_test/INFO] Ending
+
+[suno-18.sophia.grid5000.fr:bsp:(103) 2.755808] [msg_test/INFO] Ending
+
+[suno-23.sophia.grid5000.fr:bsp:(43) 2.755808] [msg_test/INFO] Ending
+
+[suno-35.sophia.grid5000.fr:bsp:(120) 2.755808] [msg_test/INFO] Ending
+
+[suno-34.sophia.grid5000.fr:bsp:(119) 2.755808] [msg_test/INFO] Ending
+
+[suno-27.sophia.grid5000.fr:bsp:(112) 2.755808] [msg_test/INFO] Ending
+
+[suno-29.sophia.grid5000.fr:bsp:(114) 2.755808] [msg_test/INFO] Ending
+
+[suno-11.sophia.grid5000.fr:bsp:(96) 2.755808] [msg_test/INFO] Ending
+
+[suno-31.sophia.grid5000.fr:bsp:(51) 2.755808] [msg_test/INFO] Ending
+
+[suno-36.sophia.grid5000.fr:bsp:(56) 2.755808] [msg_test/INFO] Ending
+
+[suno-30.sophia.grid5000.fr:bsp:(50) 2.755808] [msg_test/INFO] Ending
+
+[suno-22.sophia.grid5000.fr:bsp:(107) 2.755808] [msg_test/INFO] Ending
+
+[suno-32.sophia.grid5000.fr:bsp:(117) 2.755808] [msg_test/INFO] Ending
+
+[suno-21.sophia.grid5000.fr:bsp:(41) 2.755808] [msg_test/INFO] Ending
+
+[suno-20.sophia.grid5000.fr:bsp:(105) 2.755808] [msg_test/INFO] Ending
+
+[suno-17.sophia.grid5000.fr:bsp:(37) 2.755808] [msg_test/INFO] Ending
+
+[suno-30.sophia.grid5000.fr:bsp:(115) 2.755808] [msg_test/INFO] Ending
+
+[suno-7.sophia.grid5000.fr:bsp:(92) 2.755808] [msg_test/INFO] Ending
+
+[suno-37.sophia.grid5000.fr:bsp:(57) 2.755808] [msg_test/INFO] Ending
+
+[suno-10.sophia.grid5000.fr:bsp:(95) 2.755808] [msg_test/INFO] Ending
+
+[suno-19.sophia.grid5000.fr:bsp:(39) 2.755808] [msg_test/INFO] Ending
+
+[suno-8.sophia.grid5000.fr:bsp:(28) 2.755808] [msg_test/INFO] Ending
+
+[suno-14.sophia.grid5000.fr:bsp:(34) 2.755808] [msg_test/INFO] Ending
+
+[suno-8.sophia.grid5000.fr:bsp:(93) 2.755808] [msg_test/INFO] Ending
+
+[suno-39.sophia.grid5000.fr:bsp:(59) 2.755808] [msg_test/INFO] Ending
+
+[suno-33.sophia.grid5000.fr:bsp:(53) 2.755808] [msg_test/INFO] Ending
+
+[suno-16.sophia.grid5000.fr:bsp:(36) 2.755808] [msg_test/INFO] Ending
+
+[suno-24.sophia.grid5000.fr:bsp:(109) 2.755808] [msg_test/INFO] Ending
+
+[suno-10.sophia.grid5000.fr:bsp:(30) 2.755808] [msg_test/INFO] Ending
+
+[suno-22.sophia.grid5000.fr:bsp:(42) 2.755808] [msg_test/INFO] Ending
+
+[suno-38.sophia.grid5000.fr:bsp:(58) 2.755808] [msg_test/INFO] Ending
+
+[suno-40.sophia.grid5000.fr:bsp:(125) 2.755821] [msg_test/INFO] Ending
+
+[suno-40.sophia.grid5000.fr:bsp:(60) 2.755821] [msg_test/INFO] Ending
+
+[suno-6.sophia.grid5000.fr:bsp:(26) 2.755821] [msg_test/INFO] Ending
+
+[suno-6.sophia.grid5000.fr:bsp:(91) 2.755821] [msg_test/INFO] Ending
+
+[suno-5.sophia.grid5000.fr:bsp:(90) 2.755861] [msg_test/INFO] Ending
+
+[suno-41.sophia.grid5000.fr:bsp:(126) 2.755861] [msg_test/INFO] Ending
+
+[suno-5.sophia.grid5000.fr:bsp:(25) 2.755861] [msg_test/INFO] Ending
+
+[suno-41.sophia.grid5000.fr:bsp:(61) 2.755861] [msg_test/INFO] Ending
+
+[suno-42.sophia.grid5000.fr:bsp:(127) 2.756006] [msg_test/INFO] Ending
+
+[suno-42.sophia.grid5000.fr:bsp:(62) 2.756006] [msg_test/INFO] Ending
+
+[suno-4.sophia.grid5000.fr:bsp:(24) 2.756029] [msg_test/INFO] Ending
+
+[suno-4.sophia.grid5000.fr:bsp:(89) 2.756029] [msg_test/INFO] Ending
+
+[suno-43.sophia.grid5000.fr:bsp:(63) 2.756576] [msg_test/INFO] Ending
+
+[suno-43.sophia.grid5000.fr:bsp:(128) 2.756596] [msg_test/INFO] Ending
+
+[suno-3.sophia.grid5000.fr:bsp:(23) 2.756644] [msg_test/INFO] Ending
+
+[suno-3.sophia.grid5000.fr:bsp:(88) 2.756644] [msg_test/INFO] Ending
+
+[chimint-1.lille.grid5000.fr:bsp:(66) 2.757960] [msg_test/INFO] Ending
+
+[chimint-20.lille.grid5000.fr:bsp:(85) 2.758093] [msg_test/INFO] Ending
+
+[chimint-20.lille.grid5000.fr:bsp:(20) 2.758093] [msg_test/INFO] Ending
+
+[suno-44.sophia.grid5000.fr:bsp:(64) 2.758917] [msg_test/INFO] Ending
+
+[suno-44.sophia.grid5000.fr:bsp:(129) 2.759000] [msg_test/INFO] Ending
+
+[suno-2.sophia.grid5000.fr:bsp:(22) 2.759112] [msg_test/INFO] Ending
+
+[suno-2.sophia.grid5000.fr:bsp:(87) 2.759112] [msg_test/INFO] Ending
+
+[chicon-1.lille.grid5000.fr:bsp:(131) 2.762578] [msg_test/INFO] Ending
+
+[suno-45.sophia.grid5000.fr:bsp:(65) 2.769669] [msg_test/INFO] Ending
+
+[suno-1.sophia.grid5000.fr:bsp:(86) 2.769802] [msg_test/INFO] Ending
+
+[suno-1.sophia.grid5000.fr:bsp:(21) 2.769802] [msg_test/INFO] Ending
+
+[suno-45.sophia.grid5000.fr:bsp:(130) 2.770384] [msg_test/INFO] Ending
+
+[chimint-1.lille.grid5000.fr:bsp:(1) 2.770384] [msg_test/INFO] Ending
+
+[2.770384] /home/rodrigo/SimGrid-3.9/src/surf/maxmin.c:85: [surf_maxmin/WARNING] Variable 0x8b13f68 (534) still in LMM system when freing it: this may be a bug
+[2.770384] /home/rodrigo/SimGrid-3.9/src/surf/maxmin.c:85: [surf_maxmin/WARNING] Variable 0x8b14028 (643) still in LMM system when freing it: this may be a bug
+[2.770384] /home/rodrigo/SimGrid-3.9/src/surf/maxmin.c:85: [surf_maxmin/WARNING] Variable 0x8b13fc8 (645) still in LMM system when freing it: this may be a bug
+[2.770384] /home/rodrigo/SimGrid-3.9/src/surf/maxmin.c:85: [surf_maxmin/WARNING] Variable 0x8b13f08 (646) still in LMM system when freing it: this may be a bug

@@ -1,0 +1,189 @@
+<?xml version='1.0'?>
+<!DOCTYPE platform SYSTEM "http://simgrid.gforge.inria.fr/simgrid.dtd">
+<platform version="3">
+  <!-- The master process (with some arguments) -->
+	<process host="chimint-1.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-2.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-3.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-4.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-5.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-6.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-7.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-8.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-9.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-10.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-11.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-12.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-13.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-14.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-15.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-16.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-17.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-18.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-19.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-20.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="suno-1.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-2.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-3.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-4.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-5.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-6.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-7.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-8.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-9.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-10.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-11.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-12.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-13.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-14.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-15.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-16.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-17.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-18.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-19.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-20.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-21.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-22.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-23.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-24.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-25.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-26.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-27.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-28.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-29.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-30.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-31.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-32.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-33.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-34.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-35.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-36.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-37.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-38.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-39.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-40.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-41.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-42.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-43.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-44.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-45.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+	<process host="chimint-1.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-2.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-3.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-4.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-5.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-6.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-7.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-8.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-9.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-10.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-11.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-12.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-13.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-14.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-15.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-16.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-17.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-18.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-19.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="chimint-20.lille.grid5000.fr" function="bsp"> <prop id="manager" value="150"/> </process>
+	<process host="suno-1.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-2.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-3.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-4.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-5.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-6.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-7.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-8.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-9.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-10.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-11.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-12.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-13.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-14.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-15.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-16.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-17.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-18.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-19.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-20.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-21.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-22.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-23.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-24.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-25.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-26.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-27.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-28.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-29.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-30.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-31.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-32.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-33.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-34.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-35.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-36.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-37.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-38.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-39.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-40.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-41.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-42.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-43.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-44.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+  <process host="suno-45.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="149"/> </process>
+	<process host="chicon-1.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-2.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-3.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-4.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-5.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-6.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-7.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-8.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-9.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-10.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-11.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-12.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-13.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-14.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-15.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-16.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  <process host="chicon-17.lille.grid5000.fr" function="bsp"> <prop id="manager" value="151"/> </process>
+  
+	<process host="capricorne-1.lyon.grid5000.fr" function="manager">
+		<prop id="amount" value="4"/>
+		<prop id="set" value="0"/>
+		<prop id="base" value="148"/>
+		<prop id="prefix" value="capricorne-"/>
+		<prop id="sufix" value=".lyon.grid5000.fr"/>
+		<prop id="radical" value="56"/>
+		<prop id="power" value="4.7233E9"/>
+	</process>
+  <process host="suno-1.sophia.grid5000.fr" function="manager">
+		<prop id="amount" value="4"/>
+		<prop id="set" value="1"/>
+		<prop id="base" value="148"/>
+		<prop id="prefix" value="suno-"/>
+		<prop id="sufix" value=".sophia.grid5000.fr"/>
+		<prop id="radical" value="45"/>
+		<prop id="power" value="23.530E9"/>
+	</process>
+  <process host="chimint-1.lille.grid5000.fr" function="manager">
+		<prop id="amount" value="4"/>
+		<prop id="set" value="2"/>
+		<prop id="base" value="148"/>
+		<prop id="prefix" value="chimint-"/>
+		<prop id="sufix" value=".lille.grid5000.fr"/>
+		<prop id="radical" value="20"/>
+		<prop id="power" value="23.531E9"/>
+	</process>
+  <process host="chicon-1.lille.grid5000.fr" function="manager">
+		<prop id="amount" value="4"/>
+		<prop id="set" value="3"/>
+		<prop id="base" value="148"/>
+		<prop id="prefix" value="chicon-"/>
+		<prop id="sufix" value=".lille.grid5000.fr"/>
+		<prop id="radical" value="26"/>
+		<prop id="power" value="8.9618E9"/>
+	</process>
+</platform>
